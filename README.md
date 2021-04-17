@@ -1,16 +1,21 @@
-### Hi there 👋
+Hey there 👋
+My name is Dallin Jared
+I'm a student at Brigham Young University - Provo
+Studying Information Systems
+Currently a Full Stack Web Developer on the .Net Core MVC Framwork
 
-<!--
-**dallinjared/dallinjared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Socials
+LinkedIn Gmail
 
-Here are some ideas to get you started:
+My Tech Skills
+Languages
+C# Python JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front End
+CSS HTML Bootstrap
+
+Back End
+MYSQL PostgreSQL AWS Django
+
+Frameworks
+.NET
