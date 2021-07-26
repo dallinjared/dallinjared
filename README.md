@@ -2,10 +2,7 @@ Hey there 👋
 My name is Dallin Jared
 I'm a student at Brigham Young University - Provo
 Studying Information Systems
-Currently a Full Stack Web Developer on the .Net Core MVC Framwork
 
-Socials
-<a href="www.linkedin.com/dallinjared">LinkedIn</a> Gmail
 
 My Tech Skills
 Languages
