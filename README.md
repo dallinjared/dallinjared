@@ -5,22 +5,19 @@ Studying Information Systems
 Currently a Full Stack Web Developer on the .Net Core MVC Framwork
 
 Socials
-LinkedIn Gmail
+<a href="www.linkedin.com/dallinjared">LinkedIn</a> Gmail
 
 My Tech Skills
 Languages
-C# Python JavaScript
+C# Python JavaScript ReactJS ASP.net
 
 Front End
-CSS HTML Bootstrap
+CSS HTML Bootstrap TailwindCSS MaterialUI
 
 Back End
-MYSQL PostgreSQL AWS Django
+MYSQL PostgreSQL AWS Django MongoDB
 
 Frameworks
 .NET
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallinjared&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallinjared)](https://github.com/anuraghazra/github-readme-stats)
