@@ -6,7 +6,7 @@ Studying Information Systems
 
 My Tech Skills
 Languages
-C# Python JavaScript ReactJS ASP.net
+C# Python JavaScript ReactJS ASP.net SwiftUI
 
 Front End
 CSS HTML Bootstrap TailwindCSS MaterialUI
